@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HMVN+L28DCqfXM3kXydzvSYz03S+59W3xK0K1/Wh1eM=",
+  "Source": "StockWebApp",
+  "BasePath": "_content/StockWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
